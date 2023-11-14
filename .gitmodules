@@ -1,0 +1,3 @@
+[submodule "dags/dag1"]
+	path = dags/dag1
+	url = git@github.com:dprykh/dag1.git
